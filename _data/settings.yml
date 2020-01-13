@@ -1,22 +1,22 @@
 audit_header: false
 title: "Guaranteed Offer"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: Jason Walters, a top Real Estate Agent, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 client:
-  name:
+  name: Jason Walters
   title:
   license_number:
   about_markdown: |
 
   market:
-  brand:
-  brokerage:
-  address:
-  phone:
+  brand: The Walters Team
+  brokerage: Home Towne Realty
+  address: 50-6 Neuse River Parkway Clayton, NC 27527
+  phone: 252-360-1130
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Jason@WaltersTeam.com
+  url: https://www.waltersteam.com
 
 images:
   client_headshot_path: /img/headshot.jpg
