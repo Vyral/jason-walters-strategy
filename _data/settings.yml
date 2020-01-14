@@ -25,8 +25,8 @@ images:
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#094264'
-  theme_color: '#999'
+  brand_color: '#d12421'
+  theme_color: '#002e63'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
